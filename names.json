@@ -1,0 +1,292 @@
+{
+    "teams":[
+        {
+        "names":[
+            "Manchester City"
+        ],
+        "replace_name":"man_city"
+    },
+    
+        {
+        "names":[
+            "Leicester City"
+        ],
+        "replace_name":"leicester"
+    },
+    
+        {
+        "names":[
+            "Norwich City",
+            "Norwich City FC"
+        ],
+        "replace_name":"norwich"
+    },
+        {
+        "names":[
+            "Arsenal"
+        ],
+        "replace_name":"arsenal"
+    },
+        {
+        "names":[
+            "Aston Villa"
+        ],
+        "replace_name":"aston_villa"
+    },
+        {
+        "names":[
+            "Leeds United"
+        ],
+        "replace_name":"leeds"
+    },
+        {
+        "names":[
+            "Watford",
+            "Watford FC"
+        ],
+        "replace_name":"watford"
+    }, 
+        {
+        "names":[
+            "Everton"
+        ],
+        "replace_name":"everton"
+    },
+        {
+        "names":[
+            "West Ham United"
+        ],
+        "replace_name":"west_ham"
+    },
+        {
+        "names":[
+            "Liverpool"
+        ],
+        "replace_name":"liverpool"
+    },
+        {
+        "names":[
+            "Chelsea"
+        ],
+        "replace_name":"chelsea"
+    },
+        {
+        "names":[
+            "Wolverhampton Wanderers",
+            "Wolves"
+        ],
+        "replace_name":"wolves"
+    },
+        {
+        "names":[
+            "Tottenham Hotspur"
+        ],
+        "replace_name":"tottenham"
+    },
+        {
+        "names":[
+            "Burnley FC",
+            "Burnley"
+        ],
+        "replace_name":"burnley"
+    },
+        {
+        "names":[
+            "Crystal Palace FC",
+            "Crystal Palace"
+        ],
+        "replace_name":"crystal_palace"
+    },
+        {
+        "names":[
+            "Southampton FC",
+            "Southampton"
+        ],
+        "replace_name":"southampton"
+    },
+        {
+        "names":[
+            "Manchester United"
+        ],
+        "replace_name":"man_utd"
+    },
+        {
+        "names":[
+            "Newcastle United FC",
+            "Newcastle United"
+        ],
+        "replace_name":"newcastle"
+    },
+        {
+        "names":[
+            "Brighton and Hove Albion",
+            "Brighton & Hove Albion"
+        ],
+        "replace_name":"brighton"
+    },
+        {
+        "names":[
+            "Brentford"
+        ],
+        "replace_name":"brentford"
+    },
+        {
+        "names":[
+            "Fulham"
+        ],
+        "replace_name":"fulham"
+    },
+        {
+        "names":[
+            "AFC Bournemouth",
+            "Bournemouth AFC",
+            "Bournemouth"
+        ],
+        "replace_name":"bournemouth"
+    },
+        {
+        "names":[
+            "Nottingham Forest"
+        ],
+        "replace_name":"nottingham_forest"
+    },
+        {
+        "names":[
+            "Mainz 05",
+            "Mainz",
+            "1. FSV Mainz 051.",
+            "1. FSV Mainz 051."
+        ],
+        "replace_name":"FSV_mainz_051"
+    },
+        {
+        "names":[
+            "Eintracht Frankfurt",
+            " Eintracht Frankfurt"
+        ],
+        "replace_name":"eintracht_frankfurt"
+    },
+        {
+        "names":[
+            "Hoffenheim",
+            "1899 Hoffenheim",
+            "TSG 1899 Hoffenheim"
+        ],
+        "replace_name":"hoffenheim"
+    },
+        {
+        "names":[
+            "SpVgg Greuther Fürth",
+            "Greuther Furth"
+        ],
+        "replace_name":"greuter_furth"
+    },
+        {
+        "names":[
+            "Bayer leverkusen",
+            "Bayer 04 leverkusen"
+        ],
+        "replace_name":"bayer_leverkusen"
+    },
+        {
+        "names":[
+            "Fc Köln",
+            "Cologne",
+            "1. Fc Köln"
+        ],
+        "replace_name":"fc_köln"
+    },
+        {
+        "names":[
+            "Arminia Bielefeld            ",
+            "Arminia Bielefeld"
+        ],
+        "replace_name":"arminie_bielefeld"
+    },
+        {
+        "names":[
+            "Freiburg",
+            "SC Freiburg"
+        ],
+        "replace_name":"freiburg"
+    },
+        {
+        "names":[
+            "Borussia Mönchengladbach",
+            "Borussia M'gladbach"
+        ],
+        "replace_name":"borussia_mönchengladbach"
+    },
+        {
+        "names":[
+            "RB Leipzig"
+        ],
+        "replace_name":"rb_leipzig"
+    },
+        {
+        "names":[
+            "Union Berlin",
+            "1. FC Union Berlin"
+        ],
+        "replace_name":"union_berlin"
+    },
+        {
+        "names":[
+            "FC Bayern München",
+            "Bayern Munich",
+            "FC Bayern Munich"
+        ],
+        "replace_name":"bayern_mucnhen"
+    },
+        {
+        "names":[
+            "Borussia Dortmund"
+        ],
+        "replace_name":"borussia_dortmund"
+    },
+        {
+        "names":[
+            "Bochum",
+            "Vfl Bochum"
+        ],
+        "replace_name":"bochum"
+    },
+    {
+    "names":[
+        "Augsburg",
+        "Fc Augsburg"
+    ],
+    "replace_name":"augsburg"
+    },
+        {
+        "names":[
+            "Hertha BSC Berlin",
+            "Hertha Berlin",
+            "Hertha BSC"
+        ],
+        "replace_name":"hertha_berlin"
+    },
+        {
+        "names":[
+            "Stuttgart",
+            "VfB Stuttgart"
+        ],
+        "replace_name":"stuttgart"
+    },
+        {
+        "names":[
+            "SV Werder Bremen",
+            "Werder Bremen"
+        ],
+        "replace_name":"werder_bremen"
+    },
+        {
+        "names":[
+            "FC Schalke 04",
+            "Schalke 04"
+        ],
+        "replace_name":"schalke"
+    }
+]
+    
+}
