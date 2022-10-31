@@ -2,8 +2,8 @@
 A script that tracks multiple european sports betting sites and looks for arbitrages<br />
 
 The file betting_tracker.py contains the code that gets the bets data from the multiple sports betting sites.<br />
-The code utilises on some websites selenium webdriver, and on others the normal requests python library.<br />
-Selenium is used on some sites because these sites use more complicated get requests to give the data for the bets.<br />
+The code utilises slenium webdriver on some websites, and on others the normal requests python library.<br />
+Selenium is used on some sites because these sites use more complicated get requests to get the data for the bets.<br />
 <br />
 The arbitrage_calculator.py is the file that gets all the data from the betting_tracker.py and calculates, if there is any arbitrage between the different websites.
 The names.json file is used to store different name variations if the sports teams. This is because different betting websites have different name variations for the same teams.<br />
